@@ -1,0 +1,1 @@
+Um projeto onde é realizada a leitura de um arquivo.txt, inserção dos dados lidos em uma lista de objetos e a inserção da lista no banco de dados Sqlite local, no qual a conexão com o banco é realizada via padrão Singleton (Instanciada uma única vez na memória do hardware)
